@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnn149&count_private=true&show_icons=true&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnn149&layout=compact&theme=nord&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnn149&layout=compact&theme=nord&langs_count=10&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nnn149/nnn149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
